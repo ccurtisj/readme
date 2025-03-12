@@ -16,13 +16,13 @@ What can I do right now to make progress or learn, even if it’s imperfect? Mov
 Collaboration is key. Diverse perspectives lead to better decisions and stronger products. Encourage feedback and pushback from colleages. How can I minimize feedback delay from the front lines?
 
 ### Simplicity Over Complexity
-Prioritize simplicity to create clear, effective products. What can I remove here? Enbrace addition via subtraction.
+Prioritize simplicity to create clear, effective products. What can I remove here? Embrace addition via subtraction.
 
 ### Context is King
 Understand the problem deeply before jumping into solutions. What's been tried before? What's not working? What progress are we trying to make?
 
-### I'm Always Willing to Kill My Darlings
-Let go of features or ideas that no longer serve our goals.
+### Willing to Kill My Darlings
+I gladly let go of features or ideas that no longer serve our goals.
 
 ### Data Rules Everything Around Me
 What data am I basing this decision off of? How confident am I? What was the outcome? How can I improve the next decision?
